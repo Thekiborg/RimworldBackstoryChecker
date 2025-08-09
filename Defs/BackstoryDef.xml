@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+    <BackstoryDef>
+        <defName>BadBackstory</defName>
+        <title>royal masseuse</title>
+        <titleShort>masseuse</titleShort>
+        <description>When the tribe would go travel or hunt, [PAWN_nameDef] would always follow them to come back to the village the hands full of lost relics of the industrialized civilization, carrying rusted pistols and broken electronics. While [PAWN_possessive] people ignored or despised these artifacts, [PAWN_nameDef] loved to study them. Sometimes, [PAWN_pronoun] managed to create prototypes of rifles or other gadgets.\n\nDue to [PAWN_possessive] wierd interests, [Pawn_pronoun] never got along with the other kids.</description>
+        <slot>Adulthood</slot>
+        <bodyTypeMale>Male</bodyTypeMale>
+        <bodyTypeFemale>Female</bodyTypeFemale>
+        <spawnCategories>
+            <li>ImperialCommon</li>
+        </spawnCategories>
+        <skillGains>
+            <Social>6</Social>
+        </skillGains>
+        <forcedTraits>
+            <Beauty>2</Beauty>
+        </forcedTraits>
+    </BackstoryDef>
+
+    <BackstoryDef>
+        <defName>GoodBackstory</defName>
+        <title>royal masseuse</title>
+        <titleShort>masseuse</titleShort>
+        <description>When the tribe would go travel or hunt, [PaWN_nameDef] would always follow them to come back to the village the hands full of lost relics of the industrialized civilization, carrying rusted pistols and broken electronics. While [PAWN_possesive] people ignored or despised these artifacts, [PAWN_nameDef] loved to study them. Sometimes, [PAWN_pronoun] managed to create prototypes of rifles or other gadgets.\n\nDue to [PAWN_possessive] wierd interests, [Pawn_pronoun] never got along with the other kids.</description>
+        <slot>Adulthood</slot>
+        <bodyTypeMale>Male</bodyTypeMale>
+        <bodyTypeFemale>Female</bodyTypeFemale>
+        <spawnCategories>
+            <li>ImperialCommon</li>
+        </spawnCategories>
+        <skillGains>
+            <Social>6</Social>
+        </skillGains>
+        <forcedTraits>
+            <Beauty>2</Beauty>
+        </forcedTraits>
+    </BackstoryDef>
+
+</Defs>
